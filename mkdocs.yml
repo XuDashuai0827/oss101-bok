@@ -101,7 +101,14 @@ nav:
           - 第 2 章 基本概念:
               - 2.1: textbook/chapter_2/chapter_2_1.md
           - 第 3 章 许可证:
-              - 3.1: textbook/chapter_3/chapter_3_1.md
+              - 3.1 许可证: textbook/chapter_3/chapter_3_1.md
+              - 3.2 开源许可证: textbook/chapter_3/chapter_3_2.md
+              - 3.3 贡献者许可协议: textbook/chapter_3/chapter_3_3.md
+              - 3.4 著作权: textbook/chapter_3/chapter_3_4.md
+              - 3.5 作品: textbook/chapter_3/chapter_3_5.md
+              - 3.6 衍生作品: textbook/chapter_3/chapter_3_6.md
+              - 3.7 专利: textbook/chapter_3/chapter_3_7.md
+              - 3.8 自述文件: textbook/chapter_3/chapter_3_8.md
           - 第 4 章 元数据:
               - 4.1: textbook/chapter_4/chapter_4_1.md
         - 第二部分 治理:
